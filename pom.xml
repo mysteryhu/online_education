@@ -13,7 +13,7 @@
     </modules>
 
     <properties>
-    <fastjson.version>1.2.47</fastjson.version>
+    <fastjson.version>1.2.83</fastjson.version>
     <spark.version>2.1.1</spark.version>
     </properties>
     <dependencies>
